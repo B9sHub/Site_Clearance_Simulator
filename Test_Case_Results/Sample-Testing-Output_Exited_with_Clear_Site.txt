@@ -1,0 +1,260 @@
+D:\Java\Projects\Site_Simulator>java SiteSimulator site_map_3.txt
+Digger is now entering the site facing Easterly at co-ordinates 0,0
+E  o  t  o  o  o  o  o  o  o
+
+o  o  o  o  o  o  o  o  o  o
+
+r  r  r  o  o  o  o  o  o  o
+
+r  r  r  r  o  o  o  o  o  o
+
+r  r  r  r  r  t  o  o  o  o
+
+Press any key to proceed
+
+Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (Q)
+A
+How many spaces do you want to move?
+9
+                           E
+
+o  o  o  o  o  o  o  o  o  o
+
+r  r  r  o  o  o  o  o  o  o
+
+r  r  r  r  o  o  o  o  o  o
+
+r  r  r  r  r  t  o  o  o  o
+
+Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (Q)
+R
+Robot will now rotate 90* clockwise
+S
+                           S
+
+o  o  o  o  o  o  o  o  o  o
+
+r  r  r  o  o  o  o  o  o  o
+
+r  r  r  r  o  o  o  o  o  o
+
+r  r  r  r  r  t  o  o  o  o
+
+Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (Q)
+A
+How many spaces do you want to move?
+1
+
+
+o  o  o  o  o  o  o  o  o  S
+
+r  r  r  o  o  o  o  o  o  o
+
+r  r  r  r  o  o  o  o  o  o
+
+r  r  r  r  r  t  o  o  o  o
+
+Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (Q)
+R
+Robot will now rotate 90* clockwise
+W
+
+
+o  o  o  o  o  o  o  o  o  W
+
+r  r  r  o  o  o  o  o  o  o
+
+r  r  r  r  o  o  o  o  o  o
+
+r  r  r  r  r  t  o  o  o  o
+
+Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (Q)
+A
+How many spaces do you want to move?
+9
+
+
+W
+
+r  r  r  o  o  o  o  o  o  o
+
+r  r  r  r  o  o  o  o  o  o
+
+r  r  r  r  r  t  o  o  o  o
+
+Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (Q)
+L
+Robot will now rotate 90* anti-clockwise
+S
+
+
+S
+
+r  r  r  o  o  o  o  o  o  o
+
+r  r  r  r  o  o  o  o  o  o
+
+r  r  r  r  r  t  o  o  o  o
+
+Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (Q)
+A
+How many spaces do you want to move?
+1
+
+
+
+
+S  r  r  o  o  o  o  o  o  o
+
+r  r  r  r  o  o  o  o  o  o
+
+r  r  r  r  r  t  o  o  o  o
+
+Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (Q)
+L
+Robot will now rotate 90* anti-clockwise
+E
+
+
+
+
+E  r  r  o  o  o  o  o  o  o
+
+r  r  r  r  o  o  o  o  o  o
+
+r  r  r  r  r  t  o  o  o  o
+
+Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (Q)
+A
+How many spaces do you want to move?
+9
+
+
+
+
+                           E
+
+r  r  r  r  o  o  o  o  o  o
+
+r  r  r  r  r  t  o  o  o  o
+
+Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (Q)
+R
+Robot will now rotate 90* clockwise
+S
+
+
+
+
+                           S
+
+r  r  r  r  o  o  o  o  o  o
+
+r  r  r  r  r  t  o  o  o  o
+
+Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (Q)
+A
+How many spaces do you want to move?
+1
+
+
+
+
+
+
+r  r  r  r  o  o  o  o  o  S
+
+r  r  r  r  r  t  o  o  o  o
+
+Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (Q)
+R
+Robot will now rotate 90* clockwise
+W
+
+
+
+
+
+
+r  r  r  r  o  o  o  o  o  W
+
+r  r  r  r  r  t  o  o  o  o
+
+Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (Q)
+A
+How many spaces do you want to move?
+9
+
+
+
+
+
+
+W
+
+r  r  r  r  r  t  o  o  o  o
+
+Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (Q)
+L
+Robot will now rotate 90* anti-clockwise
+S
+
+
+
+
+
+
+S
+
+r  r  r  r  r  t  o  o  o  o
+
+Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (Q)
+A
+How many spaces do you want to move?
+1
+
+
+
+
+
+
+
+
+S  r  r  r  r  t  o  o  o  o
+
+Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (Q)
+L
+Robot will now rotate 90* anti-clockwise
+E
+
+
+
+
+
+
+
+
+E  r  r  r  r  t  o  o  o  o
+
+Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (Q)
+A
+How many spaces do you want to move?
+9
+
+
+
+
+
+
+
+
+                           E
+
+The board has been cleared ... 
+
+[A: Robot moved 9 spaces, R: Robot will now rotate 90* clockwise, A: Robot moved 1 spaces, R: Robot will now rotate 90* clockwise, A: Robot moved 9 spaces, 
+L: Robot will now rotate 90* anti-clockwise, A: Robot moved 1 spaces, L: Robot will now rotate 90* anti-clockwise, A: Robot moved 9 spaces, 
+R: Robot will now rotate 90* clockwise, A: Robot moved 1 spaces, R: Robot will now rotate 90* clockwise, A: Robot moved 9 spaces, 
+L: Robot will now rotate 90* anti-clockwise, A: Robot moved 1 spaces, L: Robot will now rotate 90* anti-clockwise, A: Robot moved 9 spaces, A: Robot moved 1 spaces]
+
+D:\Java\Projects\Site_Simulator>

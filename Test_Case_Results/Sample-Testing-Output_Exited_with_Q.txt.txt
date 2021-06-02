@@ -1,0 +1,54 @@
+D:\Java\Projects\Site_Simulator>java SiteSimulator site_map_1.txt
+Digger is now entering the site facing Easterly at co-ordinates 0,0
+E  o  t  o  o  o  o  o  o  o
+
+o  o  o  o  o  o  o  T  o  o
+
+r  r  r  o  o  o  o  T  o  o
+
+r  r  r  r  o  o  o  o  o  o
+
+r  r  r  r  r  t  o  o  o  o
+
+Press any key to proceed
+
+Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (Q)
+A
+How many spaces do you want to move?
+3
+         E  o  o  o  o  o  o
+
+o  o  o  o  o  o  o  T  o  o
+
+r  r  r  o  o  o  o  T  o  o
+
+r  r  r  r  o  o  o  o  o  o
+
+r  r  r  r  r  t  o  o  o  o
+
+Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (Q)
+R
+Robot will now rotate 90* clockwise
+S
+         S  o  o  o  o  o  o
+
+o  o  o  o  o  o  o  T  o  o
+
+r  r  r  o  o  o  o  T  o  o
+
+r  r  r  r  o  o  o  o  o  o
+
+r  r  r  r  r  t  o  o  o  o
+
+Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (Q)
+A
+How many spaces do you want to move?
+5
+DIGGER has crossed the site boundary. Simulator will now terminate
+TOTAL FUEL USAGE: 13 HAVE BEEN ADDED TO THE OVERALL COSTS FIGURE
+TOTAL OVERHEAD COSTS: 18
+TOTAL UNCLEAEED COST: 126
+
+TOTAL OVERALL COSTS: 144
+
+D:\Java\Projects\Site_Simulator>

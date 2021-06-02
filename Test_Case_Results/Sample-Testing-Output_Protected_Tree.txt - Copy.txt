@@ -1,0 +1,80 @@
+============ This test exits if Protected Tree is at site entrance =====================
+
+D:\Java\Projects\Site_Simulator>java SiteSimulator site_map_2.txt
+Digger is now entering the site facing Easterly at co-ordinates 0,0
+Digger has attempted to clear a protected tree. Simulator will now terminate
+TOTAL FUEL USAGE: 0 HAVE BEEN ADDED TO THE OVERALL COSTS FIGURE
+TOTAL OVERHEAD COSTS: 0
+TOTAL UNCLEAEED COST: 210
+
+TOTAL OVERALL COSTS: 210
+
+=============== This Test exits if the digger attempts to clear a protected tree in the site ==================================
+
+D:\Java\Projects\Site_Simulator>java SiteSimulator site_map_1.txt
+Digger is now entering the site facing Easterly at co-ordinates 0,0
+E  o  t  o  o  o  o  o  o  o
+
+o  o  o  o  o  o  o  T  o  o
+
+r  r  r  o  o  o  o  T  o  o
+
+r  r  r  r  o  o  o  o  o  o
+
+r  r  r  r  r  t  o  o  o  o
+
+Press any key to proceed
+A
+Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (Q)
+7
+A valid command (A,L,R,Q) has not been entered ... please retry
+E  o  t  o  o  o  o  o  o  o
+
+o  o  o  o  o  o  o  T  o  o
+
+r  r  r  o  o  o  o  T  o  o
+
+r  r  r  r  o  o  o  o  o  o
+
+r  r  r  r  r  t  o  o  o  o
+
+Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (Q)
+A
+How many spaces do you want to move?
+7
+                     E  o  o
+
+o  o  o  o  o  o  o  T  o  o
+
+r  r  r  o  o  o  o  T  o  o
+
+r  r  r  r  o  o  o  o  o  o
+
+r  r  r  r  r  t  o  o  o  o
+
+Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (Q)
+R
+Robot will now rotate 90* clockwise
+S
+                     S  o  o
+
+o  o  o  o  o  o  o  T  o  o
+
+r  r  r  o  o  o  o  T  o  o
+
+r  r  r  r  o  o  o  o  o  o
+
+r  r  r  r  r  t  o  o  o  o
+
+Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (Q)
+A
+How many spaces do you want to move?
+5
+Digger has attempted to clear a protected tree. Simulator will now terminate
+TOTAL FUEL USAGE: 11 HAVE BEEN ADDED TO THE OVERALL COSTS FIGURE
+TOTAL OVERHEAD COSTS: 17
+TOTAL UNCLEAEED COST: 126
+
+TOTAL OVERALL COSTS: 143
+
+D:\Java\Projects\Site_Simulator>

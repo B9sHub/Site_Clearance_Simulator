@@ -1,0 +1,31 @@
+I have designed this application into 2 main classes and a main() to execute simulator
+
+The SiteSimulator class is the interface between the end user and the cli
+The SiteOperations class is the logic behind the functionality after the user has entered the command
+
+All the variables are private to the SiteOperations class but contain public methods to return to the SiteSimulator as a display
+
+I have used ArrayLists to enable flexible accomodation of the inputs such as site map square values and for length of rows
+
+This is converted to a 2 dimensional array for ease of updating the square status as I continously update the current x y co-ordinates
+
+To launch the application I created a .bat file to allow me to launch from my Windows laptop.
+Simply double-click the LaunchSiteSimulator.bat to enter the command line window.
+The instructions will be printed on screen
+
+I have summarised the lof=gic below
+
+Application Workflow
+
+a) Launch Simulator to enter Interactive Console
+b) Pass in the ground layout
+c) Plot the site on cli
+d) Pass in an instruction on cli: 
+	Advance(int number of steps in current direction)
+	Left: Turn 90* to the left
+	Right: Turn 90* to the right
+	Quit: Exit program
+	Represent the current position by either N.E.W.S.
+e) Detect exit criteria
+f) Caluculate and store operation costs
+g) Print out when simulator exits
