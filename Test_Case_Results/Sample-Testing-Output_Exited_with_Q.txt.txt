@@ -1,4 +1,4 @@
-D:\Java\Projects\Site_Simulator>java SiteSimulator site_map_1.txt
+D:\Java\Projects\Site_Simulator\Site_Simulator>java SiteSimulator Site_Map_Examples\site_map_1.txt
 Digger is now entering the site facing Easterly at co-ordinates 0,0
 E  o  t  o  o  o  o  o  o  o
 
@@ -15,8 +15,8 @@ Press any key to proceed
 Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (Q)
 A
 How many spaces do you want to move?
-3
-         E  o  o  o  o  o  o
+5
+               E  o  o  o  o
 
 o  o  o  o  o  o  o  T  o  o
 
@@ -30,7 +30,7 @@ Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (
 R
 Robot will now rotate 90* clockwise
 S
-         S  o  o  o  o  o  o
+               S  o  o  o  o
 
 o  o  o  o  o  o  o  T  o  o
 
@@ -43,12 +43,27 @@ r  r  r  r  r  t  o  o  o  o
 Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (Q)
 A
 How many spaces do you want to move?
-5
-DIGGER has crossed the site boundary. Simulator will now terminate
-TOTAL FUEL USAGE: 13 HAVE BEEN ADDED TO THE OVERALL COSTS FIGURE
+3
+                  o  o  o  o
+
+o  o  o  o  o     o  T  o  o
+
+r  r  r  o  o     o  T  o  o
+
+r  r  r  r  o  S  o  o  o  o
+
+r  r  r  r  r  t  o  o  o  o
+
+Please enter the move you wish to make: Advance (A), Left (L), Right (R), Quit (Q)
+Q
+exit...
+[A: Robot moved 5 spaces, R: Robot will now rotate 90* clockwise, A: Robot moved 3 spaces, Simulator will now exit]
+TOTAL FUEL USAGE: 12 HAVE BEEN ADDED TO THE OVERALL COSTS FIGURE
 TOTAL OVERHEAD COSTS: 18
-TOTAL UNCLEAEED COST: 126
+TOTAL UNCLEARED COST: 126
 
 TOTAL OVERALL COSTS: 144
+The command history is shown below:
+[A: Robot moved 5 spaces, R: Robot will now rotate 90* clockwise, A: Robot moved 3 spaces, Simulator will now exit]
 
-D:\Java\Projects\Site_Simulator>
+D:\Java\Projects\Site_Simulator\Site_Simulator>
